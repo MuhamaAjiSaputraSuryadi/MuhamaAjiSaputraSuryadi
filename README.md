@@ -13,10 +13,6 @@
 
 ---
 
-### Connect with me. 😍
-
----
-
 ### 🖥️ Programming Languages
 
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
