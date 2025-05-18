@@ -7,17 +7,13 @@
 
 ---
 
-🧠 Saya Seorang Software Engginer
-🌱 Saya Belajar Web Developer Dan Desain Ui/UX
-🚩 Interested in Frontend Application development  
+🧠 Saya Seorang Software Engginer<br>
+🌱 Saya Belajar Web Developer Dan Desain Ui/UX<br>
+🚩 Saya Tertarik dengan WEb Developer Dan Desain Ui/UX
 
 ---
 
 ### Connect with me. 😍
-
-[![Facebook](https://img.shields.io/badge/Facebook-Mochamad%20Haikal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-muhhaykale-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-mhaikal1006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
